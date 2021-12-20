@@ -7,6 +7,10 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 ```
 git clone https://github.com/Arquitectura-de-software-UFPS-2021-2/Servidor-Socket.git
 ```
+### Host
+```
+34.202.12.23:8900
+```
 ### Pre-requisitos 📋
 
 ```
